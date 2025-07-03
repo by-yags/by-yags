@@ -1,57 +1,84 @@
-# Hello, I'm JEROME
-<a href="https://www.linkedin.com/in/jeromeBarba"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# JEROME BARBA PORTFOLIO
 
-I am a dedicated graduate of a Bachelor of Science in Office Administration, complemented by an Associate Degree in Information Technology. This unique combination has equipped me with strong administrative expertise, organizational skills, and technical proficiency. With a keen eye for detail and a passion for efficiency, I excel in office management, data handling, and leveraging technology to streamline operations. My background allows me to bridge the gap between administrative functions and IT solutions, making me a versatile professional ready to take on dynamic roles in any organization.
+Hello, I am Jerome Barba, a virtual professional with a strong foundation in cybersecurity and tech support. I bring years of experience in administrative assistance, customer service and technical support across various industries including healthcare finance and BPO.
 
-## Objective
+My focus is on providing secure efficient and reliable support for clients and businesses through remote platforms.
 
-To leverage my expertise in office administration and information technology to contribute to a dynamic organization. With strong administrative skills and technical proficiency, I aim to enhance efficiency, optimize workflows, and support business operations through innovative solutions and effective management.
+## ABOUT ME
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+i specialize in virtual assistance technical support and beginner level programming i am currently enhancing my skills in cybersecurity ethical hacking and automation using python i am committed to continuous learning and applying my knowledge to real world scenarios
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## KEY AREAS
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+- virtual assistance and admin support
+- customer engagement and phone handling
+- medical billing and data processing
+- basic python scripting and automation
+- cybersecurity principles and awareness
+- troubleshooting for web and mobile tools
+- time management and remote productivity
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+## EXPERIENCE SNAPSHOT
+
+- freelance virtual assistant supporting clients with admin and cybersecurity tasks
+- former voice services associate at ADEC Innovation handling loans and client concerns
+- healthcare virtual assistant providing appointment and billing support
+- customer service and technical support at Capital One and Genpact
+
+## CURRENT GOALS
+
+I am building practical projects that align with my cybersecurity and tech support skills including ethical hacking labs basic automation scripts and admin tools
+
+## CERTIFICATIONS
+
+<a href="https://drive.google.com/file/d/1PR1JLIbqWVy7RrIZL799xjliij8-K-QO/view" target="_blank">
+  <img src="https://img.shields.io/badge/Nexus%20PenTest%20Cert-blue?style=for-the-badge&logo=Google%20Drive&logoColor=white" />
+</a>
+
+<a href="https://drive.google.com/file/d/1AFycVZouKi98xYzhWobDkbV716Gp96XM/view" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe%20AOC%202024-red?style=for-the-badge&logo=TryHackMe&logoColor=white" />
+</a>
+
+<a href="https://drive.google.com/file/d/11pwbRh7ztZ7LvOdzJ-uouenJEoG-pskM/view" target="_blank">
+  <img src="https://img.shields.io/badge/Ethical%20Hacking%20MST%20Connect-purple?style=for-the-badge&logo=Google%20Drive&logoColor=white" />
+</a>
+
+<a href="https://drive.google.com/file/d/1BZ39fqENtSlmHZ92O5LjBs3xvE3Ugz8n/view" target="_blank">
+  <img src="https://img.shields.io/badge/Python%20101%20MST%20Connect-yellow?style=for-the-badge&logo=Python&logoColor=white" />
+</a>
+
+<div style="border:1px solid #ccc; border-radius:8px; padding:16px; margin-top:20px;">
+
+<a href="https://coursera.org/share/036c2c99ee7f2634bf830bc64bc29ba3" target="_blank">
+  <img src="https://img.shields.io/badge/Advanced%20Linux%20Commands-4285F4?style=for-the-badge&logo=Linux&logoColor=white" />
+</a>
+
+<a href="https://coursera.org/share/ca46843d96c4344d83de2e8d4ec34e0c" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20IT%20Automation%20with%20Python-34A853?style=for-the-badge&logo=Google&logoColor=white" />
+</a>
+
+<a href="https://coursera.org/share/1696bad57b2ad35334c75e4f497b2ad2" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Data%20Analytics-F9AB00?style=for-the-badge&logo=Google&logoColor=white" />
+</a>
+
+<a href="https://coursera.org/share/44d1682b5e205feb1a0bbeea28b8f4f8" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20IT%20Support-DB4437?style=for-the-badge&logo=Google&logoColor=white" />
+</a>
+
+<a href="https://coursera.org/share/78a6053fc44a0439d9790f49a3405167" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Cert-0F9D58?style=for-the-badge&logo=Google&logoColor=white" />
+</a>
+
+<a href="https://coursera.org/share/7efa14389d8be4f0b5c1caaefa9ecddf" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20AI%20Essentials-AB47BC?style=for-the-badge&logo=Google&logoColor=white" />
+</a>
+
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+## CONTACT
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+Email: jehpentester@gmail.com / jeromebarbayags@gmail.com
+Location: General Trias, Cavite, Philippines
+Phone Number: 0935-8568431 / 0976-5059162
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
+Thank you for visiting my profile, you can explore my repositories to see the projects I am working on and feel free to connect.
