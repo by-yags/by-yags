@@ -54,7 +54,7 @@ I am building practical projects that align with my cybersecurity and tech suppo
 </a>
 
 <a href="https://coursera.org/share/ca46843d96c4344d83de2e8d4ec34e0c" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20IT%20Automation%20with%20Python-34A853?style=for-the-badge&logo=Google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20IT%20Automation%20with%20Python-34A853?style=for-the-badge&logo=MST&logoColor=white" />
 </a>
 
 <a href="https://coursera.org/share/1696bad57b2ad35334c75e4f497b2ad2" target="_blank">
